@@ -1,3 +1,7 @@
+# VGTU EF BEAMER COLOR TEMPLATE
+
+[![](https://dummas.files.wordpress.com/2012/06/screen.png)]
+
 This is a simple color template, based on Vilnius Gediminas Technical University logo color pallete.
 
 
